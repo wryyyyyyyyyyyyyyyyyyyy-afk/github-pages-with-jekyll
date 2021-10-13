@@ -1,5 +1,5 @@
 ---
-title: TITLE from YAML metadata
+title: "TITLE from YAML metadata"
 date: 2021-10-13
 ---
 
